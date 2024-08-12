@@ -7,4 +7,4 @@ based on JetClass dataset:
 
 ## Open the notebook
 
-* [Google's colab](https://colab.research.google.com/github/matt-komm/blob/main/MLPrimer.ipynb)
+* [Google's colab](https://colab.research.google.com/github/matt-komm/main/MLPrimer.ipynb)
