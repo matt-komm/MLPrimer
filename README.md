@@ -5,5 +5,6 @@ based on JetClass dataset:
 > JetClass: A Large-Scale Dataset for Deep Learning in Jet Physics (1.0.0).
 > [https://doi.org/10.5281/zenodo.6619768](https://doi.org/10.5281/zenodo.6619768)
 
+## Open the notebook
 
-
+* [Google's colab](https://colab.research.google.com/github/matt-komm/blob/main/MLPrimer.ipynb)
