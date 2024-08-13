@@ -8,3 +8,4 @@ based on JetClass dataset:
 ## Open the notebook
 
 * [Google's colab](https://colab.research.google.com/github/matt-komm/MLPrimer/blob/master/MLPrimer.ipynb)
+* [CERN SWAN](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/matt-komm/MLPrimer.git)
